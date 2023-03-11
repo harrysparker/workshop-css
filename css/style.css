@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    border: 1px solid green;
+    height: 100vh;
+}
+
+
+
+.container {
+    border: 0px solid red;
+    height: 500px;
+    width: 900px;
+    display: flex;
+}
+
+.box{
+    
+    height: 500px;
+    width: 33%;
+    
+}
+
+.box1{
+      border-left: 1rem;
+      background-color: darkorange;
+      padding-top: 3rem;
+      padding-left: 3rem;
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 10px;
+}
+
+.box2{
+    background-color: darkcyan;
+    padding-top: 3rem;
+    padding-left: 3rem;
+}
+
+.box3{
+    background-color: darkslategray;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.boxB{
+    background-color: ;
+    padding-top: 3rem;
+    color: white;
+    font-size: 2rem    
+}     
+.boxC{
+    background-color: ;
+    padding-top: 3rem;
+    color: white
+}
+.orangeP{
+    background-color: white;
+    border-radius: 4rem;
+    width: 10rem;
+    height: 1rem;
+    padding-top: 6rem;
+    padding-left: 3rem;
+    margin-top: 4rem;
+}
+.boxE{
+    color: white;
+    padding-top: 3rem;
+    font-size: 2rem
+}
+.boxF{
+    background-color: ;
+    padding-top: 3rem;
+    color: white;
+}
+.blackH{
+    background-color: white;
+    border-radius: 4rem;
+    width: 10rem;
+    height: 3rem;
+    padding-top: 6rem;
+    padding-left: 3rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    margin-right: 5rem;
+    
+}
+.boxS{
+      color: white;
+      padding-top: 3rem;
+      font-size: 2rem
+}
+.boxT{
+    background-color: ;
+    padding-top: 3rem;
+    color: white;
+    font-family: serif;
+}
+.white{
+    padding-top: 6rem;
+    padding-left: 3rem;
+    background-color: white;
+    width: 10rem;
+    height: 1rem; 
+    border-radius: 4rem;
+    margin-top: 4rem;
+    
+}
+
+
