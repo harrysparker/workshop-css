@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -52,29 +54,27 @@ body{
 }
 
 .boxB{
-    background-color: ;
     padding-top: 3rem;
-    color: white;
-    font-size: 2rem    
+    color: white;  
 }     
 .boxC{
-    background-color: ;
     padding-top: 3rem;
     color: white
 }
 .orangeP{
+    margin-top: 6rem;
     background-color: white;
-    border-radius: 4rem;
-    width: 10rem;
-    height: 1rem;
-    padding-top: 6rem;
-    padding-left: 3rem;
-    margin-top: 4rem;
+    width: 150px;
+    padding : 1rem 0rem;
+    border-radius: 1.5rem;
+    text-align: center;
+    color: hsl(31, 77%, 52%);
+    font-family: 'Lexend Deca', sans-serif;
 }
 .boxE{
     color: white;
     padding-top: 3rem;
-    font-size: 2rem
+   
 }
 .boxF{
     background-color: ;
@@ -96,10 +96,8 @@ body{
 .boxS{
       color: white;
       padding-top: 3rem;
-      font-size: 2rem
 }
 .boxT{
-    background-color: ;
     padding-top: 3rem;
     color: white;
     font-family: serif;
@@ -116,3 +114,19 @@ body{
 }
 
 
+.light-green{
+    color: hsl(184, 100%, 22%);
+}
+
+.dark-green{
+    color: hsl(179, 100%, 13%);
+}
+
+.title{
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+.description{
+    font-family: 'Lexend Deca', sans-serif;
+
+}
